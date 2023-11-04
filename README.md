@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Kashum Gayantha</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashum920&label=Profile%20views&color=0e75b6&style=flat" alt="kashum920" /> </p>
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/kashum920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashum920" height="30" width="40" /></a>
 <a href="https://instagram.com/kashum920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kashum920" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codeslaves design" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codeslaves design" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/codeslavesdesign920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codeslavesdesign920" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
