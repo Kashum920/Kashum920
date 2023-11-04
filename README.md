@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/kashum920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashum920" height="30" width="40" /></a>
 <a href="https://instagram.com/kashum920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kashum920" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/&copy;codeslavesdesign920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="&copy;codeslavesdesign920" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@CodeSlavesDesign920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@CodeSlavesDesign920" height="30" width="40" /></a>
 </p>
 
 
